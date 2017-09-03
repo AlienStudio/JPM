@@ -1,5 +1,5 @@
 # JPM
-Jianping Map （建平地图）
+Jianping Map （建平中学地图）
 
 # ToDos
 - [ ] 挹芬楼
